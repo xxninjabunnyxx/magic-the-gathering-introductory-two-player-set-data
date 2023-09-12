@@ -1,0 +1,16 @@
+---
+object: set
+id: ebcaf6a7-c14c-4479-a228-2b24b6c11c9e
+code: itp
+tcgplayer_id: 2742
+name: Introductory Two-Player Set
+uri: https://api.scryfall.com/sets/ebcaf6a7-c14c-4479-a228-2b24b6c11c9e
+scryfall_uri: https://scryfall.com/sets/itp
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aitp&unique=prints
+released_at: '1996-12-31'
+set_type: starter
+card_count: 67
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/x2ps.svg?1694404800
